@@ -1,0 +1,3339 @@
+fileFormatVersion: 2
+guid: b51dd91d63337214e8af01d4476962ad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5299429500046385023
+    second: earthspin-sheet_0
+  - first:
+      213: 2598719087701339112
+    second: earthspin-sheet_1
+  - first:
+      213: -8772149644807827622
+    second: earthspin-sheet_2
+  - first:
+      213: -2447028355994112149
+    second: earthspin-sheet_3
+  - first:
+      213: 1070966317199189171
+    second: earthspin-sheet_4
+  - first:
+      213: -3932277658418433363
+    second: earthspin-sheet_5
+  - first:
+      213: -6532180070083437833
+    second: earthspin-sheet_6
+  - first:
+      213: 2256577103125650267
+    second: earthspin-sheet_7
+  - first:
+      213: -6413059205253010262
+    second: earthspin-sheet_8
+  - first:
+      213: 3458256816085692317
+    second: earthspin-sheet_9
+  - first:
+      213: -3777792958040021089
+    second: earthspin-sheet_10
+  - first:
+      213: -4919015419022627418
+    second: earthspin-sheet_11
+  - first:
+      213: -7881961063186061380
+    second: earthspin-sheet_12
+  - first:
+      213: 6737055843852596136
+    second: earthspin-sheet_13
+  - first:
+      213: 4145736165198626928
+    second: earthspin-sheet_14
+  - first:
+      213: 8906592973423643142
+    second: earthspin-sheet_15
+  - first:
+      213: 8157793431608338747
+    second: earthspin-sheet_16
+  - first:
+      213: -3824141773591182352
+    second: earthspin-sheet_17
+  - first:
+      213: 5380300187881996835
+    second: earthspin-sheet_18
+  - first:
+      213: 5938027946243020644
+    second: earthspin-sheet_19
+  - first:
+      213: 6823114718283939015
+    second: earthspin-sheet_20
+  - first:
+      213: 1822524872878954904
+    second: earthspin-sheet_21
+  - first:
+      213: 7105192192400841494
+    second: earthspin-sheet_22
+  - first:
+      213: 4687744091810193309
+    second: earthspin-sheet_23
+  - first:
+      213: -6697504153916041970
+    second: earthspin-sheet_24
+  - first:
+      213: -4760055078765606453
+    second: earthspin-sheet_25
+  - first:
+      213: 5705328200580509394
+    second: earthspin-sheet_26
+  - first:
+      213: -3074092526109886160
+    second: earthspin-sheet_27
+  - first:
+      213: 8813353301370926666
+    second: earthspin-sheet_28
+  - first:
+      213: 736594469795816898
+    second: earthspin-sheet_29
+  - first:
+      213: 7947028851376628887
+    second: earthspin-sheet_30
+  - first:
+      213: 6886614447700261178
+    second: earthspin-sheet_31
+  - first:
+      213: 7194931457252537774
+    second: earthspin-sheet_32
+  - first:
+      213: -613605551511579909
+    second: earthspin-sheet_33
+  - first:
+      213: -1469809697531963284
+    second: earthspin-sheet_34
+  - first:
+      213: -1129235842197679234
+    second: earthspin-sheet_35
+  - first:
+      213: -407952716583402199
+    second: earthspin-sheet_36
+  - first:
+      213: -6706310597152684822
+    second: earthspin-sheet_37
+  - first:
+      213: 5733421464900763713
+    second: earthspin-sheet_38
+  - first:
+      213: -3175060607654547966
+    second: earthspin-sheet_39
+  - first:
+      213: -5974889334222414386
+    second: earthspin-sheet_40
+  - first:
+      213: -774816335176180988
+    second: earthspin-sheet_41
+  - first:
+      213: -7004573281737652120
+    second: earthspin-sheet_42
+  - first:
+      213: 8766248597056319590
+    second: earthspin-sheet_43
+  - first:
+      213: 6212527671115921140
+    second: earthspin-sheet_44
+  - first:
+      213: 3508097200794861490
+    second: earthspin-sheet_45
+  - first:
+      213: -3026912435411124793
+    second: earthspin-sheet_46
+  - first:
+      213: 6256285437329826893
+    second: earthspin-sheet_47
+  - first:
+      213: 9038355411560417247
+    second: earthspin-sheet_48
+  - first:
+      213: -6951872277943815930
+    second: earthspin-sheet_49
+  - first:
+      213: 3837404284912973638
+    second: earthspin-sheet_50
+  - first:
+      213: 2358530090385585410
+    second: earthspin-sheet_51
+  - first:
+      213: -6068693917701975487
+    second: earthspin-sheet_52
+  - first:
+      213: -2622651478307015278
+    second: earthspin-sheet_53
+  - first:
+      213: -8795867944642381129
+    second: earthspin-sheet_54
+  - first:
+      213: -5554620199933911004
+    second: earthspin-sheet_55
+  - first:
+      213: -1127314391992386199
+    second: earthspin-sheet_56
+  - first:
+      213: -7873576605028247620
+    second: earthspin-sheet_57
+  - first:
+      213: 4829328372218903230
+    second: earthspin-sheet_58
+  - first:
+      213: -3482846730771261951
+    second: earthspin-sheet_59
+  - first:
+      213: 1201239277359838419
+    second: earthspin-sheet_60
+  - first:
+      213: 2682440731568178341
+    second: earthspin-sheet_61
+  - first:
+      213: -5616926740919560136
+    second: earthspin-sheet_62
+  - first:
+      213: -1914479930227308798
+    second: earthspin-sheet_63
+  - first:
+      213: 4361850659054721929
+    second: earthspin-sheet_64
+  - first:
+      213: 8571559801417934244
+    second: earthspin-sheet_65
+  - first:
+      213: 2229743489159165920
+    second: earthspin-sheet_66
+  - first:
+      213: -6169640360333399687
+    second: earthspin-sheet_67
+  - first:
+      213: -2226987965629545108
+    second: earthspin-sheet_68
+  - first:
+      213: -3657287471814238849
+    second: earthspin-sheet_69
+  - first:
+      213: 4850128761270393838
+    second: earthspin-sheet_70
+  - first:
+      213: -9014992112306892412
+    second: earthspin-sheet_71
+  - first:
+      213: 3826318845714064865
+    second: earthspin-sheet_72
+  - first:
+      213: 5176941006878010459
+    second: earthspin-sheet_73
+  - first:
+      213: 8540847025528038261
+    second: earthspin-sheet_74
+  - first:
+      213: -4220518099192520603
+    second: earthspin-sheet_75
+  - first:
+      213: 786613528221964892
+    second: earthspin-sheet_76
+  - first:
+      213: -6026196219511517647
+    second: earthspin-sheet_77
+  - first:
+      213: 7921066581125219532
+    second: earthspin-sheet_78
+  - first:
+      213: -5549715306077789861
+    second: earthspin-sheet_79
+  - first:
+      213: 3107216336506885833
+    second: earthspin-sheet_80
+  - first:
+      213: -4824166731220545423
+    second: earthspin-sheet_81
+  - first:
+      213: 7041148592562674562
+    second: earthspin-sheet_82
+  - first:
+      213: 4947641132125540066
+    second: earthspin-sheet_83
+  - first:
+      213: 5551191861725566165
+    second: earthspin-sheet_84
+  - first:
+      213: 4610411422347876897
+    second: earthspin-sheet_85
+  - first:
+      213: -9019631389517955863
+    second: earthspin-sheet_86
+  - first:
+      213: -5083503116000042323
+    second: earthspin-sheet_87
+  - first:
+      213: 6488964170690756180
+    second: earthspin-sheet_88
+  - first:
+      213: -1247649804357944153
+    second: earthspin-sheet_89
+  - first:
+      213: 8674817320906027293
+    second: earthspin-sheet_90
+  - first:
+      213: -778149503368121011
+    second: earthspin-sheet_91
+  - first:
+      213: 2996379946111680669
+    second: earthspin-sheet_92
+  - first:
+      213: 4967499696189917553
+    second: earthspin-sheet_93
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: earthspin-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 433
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f349ff7ff7bea9445864c66be30d3dd3
+      internalID: 2044175547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 433
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30fc9c59c09072142ae0cdb642be4de5
+      internalID: 1348648077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 433
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c4e2067e4f25b4cb79325010881062
+      internalID: -930949173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 433
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f903172552d444d9b353922ad2e485
+      internalID: -356465005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 433
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c35b3f0cf71b794e88eaf8a51ea3c5a
+      internalID: 1471695298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 433
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41fbf4b4f36d3434db9d7d92bb751758
+      internalID: 1322671457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 433
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4546df776d81e7249b67ff238c99d8ea
+      internalID: 1371948287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 433
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bcac7818b06ec6448d954f633c0d3de
+      internalID: -912638341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 433
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3016f2f46dce1574096a126a230a14e5
+      internalID: 416801403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 433
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc3d63a8e56ec8498580484fd87de3c
+      internalID: -1442904575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 385
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac225317db456f14c894fdb8526098ab
+      internalID: 727222358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 385
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c369002d3840c74bac164f469b1bc80
+      internalID: 1677593417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 385
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b41bc6482ff2744adb35109b88ca50
+      internalID: -170863005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 385
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de497430a2b5024cb4badd305b0d9f5
+      internalID: -292248453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 385
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6540d41342e41ab438e6e28491149133
+      internalID: 1622720868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 385
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7af378c80cebb4398a06458265cadf
+      internalID: -240548620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 385
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62898167e32021e41883b1e370edf569
+      internalID: 370672218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 385
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4873b8a7db5b814c851054d24e93bc3
+      internalID: 1269709551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 385
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b39ff3460997c4ebad73ecd4a86299
+      internalID: -1361055852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_19
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 385
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec22e8398fcea94a993d68e79129256
+      internalID: 844676582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 337
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56babb3bfb581548afaecd9a46a17c2
+      internalID: -432059475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_21
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 337
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4938d5f1ecec71f48a78d3a9188866c7
+      internalID: 473693155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_22
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 337
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb97305a75a9c344b1617835fc7537d
+      internalID: -1124271042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_23
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 337
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fa16d131eea654b91b9c63467293ff
+      internalID: 391155288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_24
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 337
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d866361e5135847b55ca2802adeaaa
+      internalID: -662986743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_25
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 337
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1b6da6cb1274a4a9e8dfc97db1ac2d
+      internalID: -570979702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_26
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 337
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b059990bae5a24c923ba0dd4385fac
+      internalID: -1070512254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_27
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 337
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a458bd5d622991d42b20ad4e780984d1
+      internalID: -117717399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_28
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 337
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1caa7e5f1fc08045b95f44de08cd5b0
+      internalID: 818403134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_29
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 337
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cebe457089acd8479b3867ea659aa34
+      internalID: -635319284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 289
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3004c5d84bf6d49ac983acc7df8a62
+      internalID: -115957910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_31
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 289
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecfed790a6766fc47a056945a22ad561
+      internalID: 2137122021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_32
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 289
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8779bb8c34ecefb46b55c45a5000cc64
+      internalID: -904799472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_33
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 289
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832504b224fa6384eb4c459d11c3da9d
+      internalID: 1202586733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_34
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 289
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93052f73ef026e47a15be174c1db0e0
+      internalID: 959668335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_35
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 289
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08104e2440f003a45b35b2a1158182a2
+      internalID: -1979143972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_36
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 289
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1861871a5c057e4184f31385058fee4
+      internalID: 161768901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_37
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 289
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1509d6d0da96d114ebfe122148f9a3e7
+      internalID: -753081358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_38
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 289
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecbb964967e8d94f904a98f6816e636
+      internalID: 114781412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_39
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 289
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6dc2a532810ae4cbdd775492582668
+      internalID: -685851551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 241
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d33de1461baacc40be04ab326a19953
+      internalID: 1148315502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_41
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 241
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4bc7aa93bfd5d45996752c18e0d80a
+      internalID: 6929423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_42
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 241
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983729bcf484b064c9e9e5ddd8131336
+      internalID: -366468837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_43
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 241
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ab8cd867ce4e6479051a6a75900007
+      internalID: -2135453871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_44
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 241
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3417282a07ffc46499efb331965a7a6a
+      internalID: 1422113379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_45
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 241
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510caa44fc0e78d47b523f0f8ed8cc60
+      internalID: -449421611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_46
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 241
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65f5db23e0a3a94caed5414520e1c8f
+      internalID: -371330215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_47
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 241
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b170e32468b1b04ba4ab802a03f053e
+      internalID: 2124698950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_48
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 241
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7666e0c696f1fc646b47339c1bd84cbd
+      internalID: -297138211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_49
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 241
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26fe8139fb8c06c41bb2183b6890394a
+      internalID: 855777142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_50
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 193
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa56035024bee4498d565e736a249a5
+      internalID: 58359355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_51
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 193
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0782baec9514b54b9f03f184d7448cc
+      internalID: -745912920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_52
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 193
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf15c857cf06c9248a94ccfa9c509472
+      internalID: 758604593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_53
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 193
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8618f2bf9ee13c46baafeaa74b08b94
+      internalID: 1590940181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_54
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 193
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49b5df04cbb6904b8d802e64a8dd745
+      internalID: 90434192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_55
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 193
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0bc8364e71eea4fa3cfa5bfdcbc994
+      internalID: 768714869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_56
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 193
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f806964f3a252449d58d6bd21841f7
+      internalID: 1104026993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_57
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 193
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cea1234bc424e49b4be750213eca2a
+      internalID: 1669294017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_58
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 193
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9deb870ca465e41b778b0ed108ebed
+      internalID: 1385663250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_59
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 193
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874fd0e836978d8428da23e3e076164f
+      internalID: -1427225193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 145
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0051a0ca1b75644cbdda0994566c0ef
+      internalID: -500936876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_61
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 145
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92bb221472c4e60439e7075e279f1ceb
+      internalID: 1946809399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_62
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 145
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa9fc6e3f0488746bc31b0ed3500252
+      internalID: 1313998932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_63
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 145
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c894fc7d94f8f094fb43ad5f7f815921
+      internalID: -217323935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_64
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 145
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01729ba8a8b5ac54fb43ba9ff7433eb8
+      internalID: -1520134986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_65
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 145
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edc93aac14eb20448c60ebe59f81852
+      internalID: 944371432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_66
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 145
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa2f93d6a401714abf8c0f8a2e8f439
+      internalID: 695330330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_67
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 145
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d463cbfb1bf893498ebe43e2fe9fad7
+      internalID: 1536382057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_68
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 145
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5aa626f6c695eb4e91af9e810cfbb3a
+      internalID: -1274885881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_69
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 145
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430fc6efcc2ef6348b472290082fae8a
+      internalID: -863771216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_70
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 97
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8e4e4d215a1b34eaf7edbfe60bf2c2
+      internalID: 2120355383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_71
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 97
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042b42854f6298e4f8db155d6117c084
+      internalID: 1676138809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_72
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 97
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31d0484945052a4a8ee795aafba61c2
+      internalID: 34348456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_73
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 97
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061a0b98e3e7798449d8461c2633a865
+      internalID: -121429816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_74
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 97
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9562ca8eb0d80664b8a8cc82ed7830c2
+      internalID: -305398457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_75
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 97
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f5e6f603904f94bbbd0eb1874f6e29
+      internalID: 1495825968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_76
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 97
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c21d87e5dd2fa47b843b610aa4d11c
+      internalID: 1099278586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_77
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 97
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83fab84d33e70be428522645af6afc68
+      internalID: 1501794163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_78
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 97
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a5e54f923ce2143b6f2c9acb6e39a0
+      internalID: -280175051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_79
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 97
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2161ad580f33f0c43852b959db45b5a2
+      internalID: 170611616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_80
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 49
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e72dac76e7640b4694aee8e179fc8a9
+      internalID: 2141166769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_81
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 49
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fc411678423d140b7e062fbf9f60f2
+      internalID: 1726535499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_82
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 49
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523e2b733ffd272429515fcbd6028f7e
+      internalID: 424689909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_83
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 49
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d445ff4b0aabc5e4582e7b8547b6cfd3
+      internalID: 447173380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_84
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 49
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8062bea4d0cafd14ab4aeb3fb0a37867
+      internalID: -2102536748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_85
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 49
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ed2913ab810cd4aa92e255c8fd56c3
+      internalID: -80020053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_86
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 49
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1231a64da6f03874196a43f96d82ebb8
+      internalID: -121895980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_87
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 49
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0ac308be6fdae44b356e92a7b6824a
+      internalID: 1784626367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_88
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 49
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0044a5c6410242d408241efadbefd647
+      internalID: -633731319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_89
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 49
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1edf8ec10572ecb42a30d1a74aac983e
+      internalID: -499058853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_90
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fdf84e9a8d1bb4f8916f7882fea16f
+      internalID: 133763123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_91
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057a2706a530fc44f8bb23a02768425c
+      internalID: -1961327077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_92
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3810df917fbc2d1409628d3b8f69a08e
+      internalID: 1270908408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthspin-sheet_93
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23, y: -13}
+        - {x: 23, y: 21}
+        - {x: 20, y: 23}
+        - {x: -20, y: 23}
+        - {x: -23, y: 15}
+        - {x: -23, y: -17}
+        - {x: -16, y: -23}
+        - {x: 14, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffeafd4ada26065409173924a2d47e9a
+      internalID: -325137164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 86bcfc3738c5b2b4f9acb5ccc82b1e49
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      earthspin-sheet_0: 2044175547
+      earthspin-sheet_1: 1348648077
+      earthspin-sheet_10: 727222358
+      earthspin-sheet_11: 1677593417
+      earthspin-sheet_12: -170863005
+      earthspin-sheet_13: -292248453
+      earthspin-sheet_14: 1622720868
+      earthspin-sheet_15: -240548620
+      earthspin-sheet_16: 370672218
+      earthspin-sheet_17: 1269709551
+      earthspin-sheet_18: -1361055852
+      earthspin-sheet_19: 844676582
+      earthspin-sheet_2: -930949173
+      earthspin-sheet_20: -432059475
+      earthspin-sheet_21: 473693155
+      earthspin-sheet_22: -1124271042
+      earthspin-sheet_23: 391155288
+      earthspin-sheet_24: -662986743
+      earthspin-sheet_25: -570979702
+      earthspin-sheet_26: -1070512254
+      earthspin-sheet_27: -117717399
+      earthspin-sheet_28: 818403134
+      earthspin-sheet_29: -635319284
+      earthspin-sheet_3: -356465005
+      earthspin-sheet_30: -115957910
+      earthspin-sheet_31: 2137122021
+      earthspin-sheet_32: -904799472
+      earthspin-sheet_33: 1202586733
+      earthspin-sheet_34: 959668335
+      earthspin-sheet_35: -1979143972
+      earthspin-sheet_36: 161768901
+      earthspin-sheet_37: -753081358
+      earthspin-sheet_38: 114781412
+      earthspin-sheet_39: -685851551
+      earthspin-sheet_4: 1471695298
+      earthspin-sheet_40: 1148315502
+      earthspin-sheet_41: 6929423
+      earthspin-sheet_42: -366468837
+      earthspin-sheet_43: -2135453871
+      earthspin-sheet_44: 1422113379
+      earthspin-sheet_45: -449421611
+      earthspin-sheet_46: -371330215
+      earthspin-sheet_47: 2124698950
+      earthspin-sheet_48: -297138211
+      earthspin-sheet_49: 855777142
+      earthspin-sheet_5: 1322671457
+      earthspin-sheet_50: 58359355
+      earthspin-sheet_51: -745912920
+      earthspin-sheet_52: 758604593
+      earthspin-sheet_53: 1590940181
+      earthspin-sheet_54: 90434192
+      earthspin-sheet_55: 768714869
+      earthspin-sheet_56: 1104026993
+      earthspin-sheet_57: 1669294017
+      earthspin-sheet_58: 1385663250
+      earthspin-sheet_59: -1427225193
+      earthspin-sheet_6: 1371948287
+      earthspin-sheet_60: -500936876
+      earthspin-sheet_61: 1946809399
+      earthspin-sheet_62: 1313998932
+      earthspin-sheet_63: -217323935
+      earthspin-sheet_64: -1520134986
+      earthspin-sheet_65: 944371432
+      earthspin-sheet_66: 695330330
+      earthspin-sheet_67: 1536382057
+      earthspin-sheet_68: -1274885881
+      earthspin-sheet_69: -863771216
+      earthspin-sheet_7: -912638341
+      earthspin-sheet_70: 2120355383
+      earthspin-sheet_71: 1676138809
+      earthspin-sheet_72: 34348456
+      earthspin-sheet_73: -121429816
+      earthspin-sheet_74: -305398457
+      earthspin-sheet_75: 1495825968
+      earthspin-sheet_76: 1099278586
+      earthspin-sheet_77: 1501794163
+      earthspin-sheet_78: -280175051
+      earthspin-sheet_79: 170611616
+      earthspin-sheet_8: 416801403
+      earthspin-sheet_80: 2141166769
+      earthspin-sheet_81: 1726535499
+      earthspin-sheet_82: 424689909
+      earthspin-sheet_83: 447173380
+      earthspin-sheet_84: -2102536748
+      earthspin-sheet_85: -80020053
+      earthspin-sheet_86: -121895980
+      earthspin-sheet_87: 1784626367
+      earthspin-sheet_88: -633731319
+      earthspin-sheet_89: -499058853
+      earthspin-sheet_9: -1442904575
+      earthspin-sheet_90: 133763123
+      earthspin-sheet_91: -1961327077
+      earthspin-sheet_92: 1270908408
+      earthspin-sheet_93: -325137164
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
